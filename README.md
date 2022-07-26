@@ -1,7 +1,7 @@
 # EFI-ASRock-X570-pro-wifi-5900X-6600XT-oc079-monterey
 EFI-ASRock-X570-pro-wifi-5900X-6600XT-oc079-monterey
-## OC 版本
-  079
+
+## OC 版本 079
 
 主板： 技嘉 ASRock X570pro wifi
 cpu： AMD Ryzen 9 5900X 12-Core
